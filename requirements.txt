@@ -5,4 +5,4 @@ numpy
 tensorflow
 yfinance
 plotly
-sklearn
+scikit-learn
